@@ -58,7 +58,7 @@ header:
       new_window: true
     - type: action
       template: action
-      label: GitHub
+      label: Pinterest
       url: 'https://github.com/'
       style: icon
       icon_class: fa-github
