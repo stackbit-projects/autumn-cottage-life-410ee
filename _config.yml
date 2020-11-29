@@ -77,7 +77,7 @@ footer:
   links:
     - type: action
       template: action
-      label: Made with Stackbit.
+      label: Created by Stackbit.
       url: 'https://www.stackbit.com'
       style: link
       new_window: true
