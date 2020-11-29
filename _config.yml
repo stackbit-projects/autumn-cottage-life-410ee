@@ -77,7 +77,7 @@ footer:
   links:
     - type: action
       template: action
-      label: Created by Stackbit.
+      label: Created by Ninja Web Services.
       url: 'https://www.stackbit.com'
       style: link
       new_window: true
