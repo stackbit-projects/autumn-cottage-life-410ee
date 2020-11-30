@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: /images/127936470_381912129812742_7653281770010375469_n.jpg
+img_path: /images/128215696_131349851900506_2021587049658585365_n.jpg
 layout: page
 ---
 
