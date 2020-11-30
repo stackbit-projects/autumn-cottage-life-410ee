@@ -63,13 +63,6 @@ header:
       style: icon
       icon_class: fa-pinterest
       new_window: true
-    - type: action
-      template: action
-      label: LinkedIn
-      url: 'https://www.linkedin.com/'
-      style: icon
-      icon_class: fa-linkedin
-      new_window: true
 footer:
   type: footer
   template: footer
