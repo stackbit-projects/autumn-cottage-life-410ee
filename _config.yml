@@ -8,7 +8,7 @@ header:
   template: header
   title: Fjord
   tagline: Minimal and clean blog theme
-  logo_img: images/logo.png
+  logo_img: /images/acl-logo.png
   background_img: /images/127772807_701905537135127_3819956554134411547_n.jpg
   has_nav: true
   nav_links:
