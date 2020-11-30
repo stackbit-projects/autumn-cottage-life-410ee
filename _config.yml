@@ -21,7 +21,7 @@ header:
       new_window: false
     - type: action
       template: action
-      label: About
+      label: My Story
       url: /about
       style: link
       icon_class: ''
