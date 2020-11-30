@@ -66,7 +66,7 @@ header:
 footer:
   type: footer
   template: footer
-  content: '&copy; All rights reserved.'
+  content: Autumn Cottage Life &copy; All rights reserved.
   links:
     - type: action
       template: action
