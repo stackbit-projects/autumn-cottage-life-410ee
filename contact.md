@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: /images/126965618_130293311959292_3212715669311821329_n.jpg
 form_id: contactForm
 form_action: /success
 form_fields:
