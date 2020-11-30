@@ -35,7 +35,7 @@ header:
       new_window: false
     - type: action
       template: action
-      label: Contact
+      label: Get In Touch
       url: /contact
       style: link
       icon_class: ''
