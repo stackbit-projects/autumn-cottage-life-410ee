@@ -44,5 +44,6 @@ form_fields:
 submit_label: Send Message
 layout: contact
 ---
+I love hearing from you guys, so feel free to let me know the things you like, the areas of improvement & any ideas of content you'd like to see. 
 
-To get in touch fill the form below.
+To get in touch fill the form below and i'll get back to you as soon as I can!
