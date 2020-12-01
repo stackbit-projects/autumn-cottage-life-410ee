@@ -28,7 +28,7 @@ header:
       new_window: false
     - type: action
       template: action
-      label: Style Guide
+      label: About The Cottage
       url: /style-guide
       style: link
       icon_class: ''
