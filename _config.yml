@@ -59,7 +59,7 @@ header:
     - type: action
       template: action
       label: Pinterest
-      url: 'https://github.com/'
+      url: 'https://www.pinterest.co.uk/autumncottagelife/_created/'
       style: icon
       icon_class: fa-pinterest
       new_window: true
