@@ -54,7 +54,7 @@ header:
       label: Facebook
       url: 'https://www.facebook.com/autumncottagelife'
       style: icon
-      icon_class: fa-twitter
+      icon_class: fa-facebook
       new_window: true
     - type: action
       template: action
