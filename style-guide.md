@@ -4,7 +4,7 @@ subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
-img_path: /images/127475481_744918503046111_4673837596183054898_n.jpg
+img_path: /images/128847085_223416552471043_5629747061679354955_n.jpg
 layout: page
 ---
 
