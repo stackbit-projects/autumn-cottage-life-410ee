@@ -14,7 +14,7 @@ header:
   nav_links:
     - type: action
       template: action
-      label: Blog Posts
+      label: Blog
       url: /
       style: link
       icon_class: ''
