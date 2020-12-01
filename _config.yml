@@ -52,7 +52,7 @@ header:
     - type: action
       template: action
       label: Facebook
-      url: 'https://twitter.com/'
+      url: 'https://www.facebook.com/autumncottagelife'
       style: icon
       icon_class: fa-twitter
       new_window: true
