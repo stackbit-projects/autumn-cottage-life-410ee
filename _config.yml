@@ -51,7 +51,7 @@ header:
       new_window: true
     - type: action
       template: action
-      label: Twitter
+      label: Facebook
       url: 'https://twitter.com/'
       style: icon
       icon_class: fa-twitter
