@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: My Story
 subtitle: This is a short page about me and my work
 img_path: /images/128098896_1806494872832778_159079147748433894_n.jpg
 layout: page
